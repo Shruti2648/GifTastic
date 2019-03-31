@@ -1,0 +1,67 @@
+body {
+    background: rgb(155, 223, 255);
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    position: fixed;
+    top: 20px;
+    left: 640px;
+}
+
+#banner {
+    background: rgb(236, 95, 95);
+    height: 80px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 30px;
+    z-index: -1;
+}
+
+#instructions {
+    position: fixed;
+    left: 400px;
+    top: 150px;
+}
+
+#buttons-view {
+    position: fixed;
+    left: 400px;
+    top: 250px;
+}
+
+.animal-button {
+    background-color: rgb(236, 95, 95);
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+  }
+
+#additional-animals {
+    text-align: center;
+    position: fixed;
+    left: 400px;
+    top: 350px;
+}
+
+#add-animal {
+    background-color: rgb(236, 95, 95);
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
+
